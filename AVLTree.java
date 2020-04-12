@@ -3,8 +3,8 @@
  *
  * AVLTree
  *
- * Yossi Saydof - yossisaydof - 204307532
- * Shai Liran - shailiran - 308291673
+ * Yossi Saydof - yossisaydof
+ * Shai Liran - shailiran
  *
  * An implementation of a AVL Tree with
  * distinct integer keys and info
